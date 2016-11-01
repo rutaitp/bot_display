@@ -19,7 +19,7 @@ span {
 #infoContainer {
 	float: left;
 	width:50%;
-	height:660px;
+	height:670px;
 	margin-top: 3%;
 	margin-left: 1%;
 	background-color: white;
@@ -29,4 +29,7 @@ span {
 	padding-top: 1%;
 	text-align: justify;
 	border-radius: 5px;
+}
+#ps {
+	font-size: 12pt;
 }
