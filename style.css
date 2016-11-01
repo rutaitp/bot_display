@@ -4,7 +4,7 @@ html {
 h1 {
 	font-family: Karla;
 }
-p {
+#text {
 	font-family: Karla;
 	font-size: 18pt;
 }
@@ -32,4 +32,9 @@ span {
 }
 #ps {
 	font-size: 12pt;
+	font-family: Karla;
+}
+#footnote {
+	font-size: 14pt;
+	font-family: Karla;
 }
