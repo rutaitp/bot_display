@@ -6,7 +6,7 @@ h1 {
 }
 #text {
 	font-family: Karla;
-	font-size: 20pt;
+	font-size: 21pt;
 }
 span {
 	background-color: #FFA500;
@@ -31,10 +31,10 @@ span {
 	border-radius: 5px;
 }
 #ps {
-	font-size: 12pt;
+	font-size: 14pt;
 	font-family: Karla;
 }
 #footnote {
-	font-size: 14pt;
+	font-size: 16pt;
 	font-family: Karla;
 }
