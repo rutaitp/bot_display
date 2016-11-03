@@ -6,7 +6,7 @@ h1 {
 }
 #text {
 	font-family: Karla;
-	font-size: 18pt;
+	font-size: 20pt;
 }
 span {
 	background-color: #FFA500;
@@ -19,7 +19,7 @@ span {
 #infoContainer {
 	float: left;
 	width:50%;
-	height:890px;
+	height:880px;
 	margin-top: 3%;
 	margin-left: 1%;
 	background-color: white;
